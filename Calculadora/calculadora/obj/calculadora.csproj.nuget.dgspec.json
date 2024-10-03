@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pasta Estudos Tiago\\projetos C#\\Calculadora\\calculadora\\calculadora.csproj": {}
+    "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj": {}
   },
   "projects": {
-    "E:\\Pasta Estudos Tiago\\projetos C#\\Calculadora\\calculadora\\calculadora.csproj": {
+    "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pasta Estudos Tiago\\projetos C#\\Calculadora\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "E:\\Pasta Estudos Tiago\\projetos C#\\Calculadora\\calculadora\\calculadora.csproj",
+        "projectPath": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj",
         "packagesPath": "C:\\Users\\tiagoa\\.nuget\\packages\\",
-        "outputPath": "E:\\Pasta Estudos Tiago\\projetos C#\\Calculadora\\calculadora\\obj\\",
+        "outputPath": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tiagoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
