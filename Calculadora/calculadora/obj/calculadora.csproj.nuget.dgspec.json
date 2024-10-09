@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj": {}
+    "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\calculadora.csproj": {}
   },
   "projects": {
-    "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj": {
+    "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\calculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj",
+        "projectUniqueName": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\calculadora.csproj",
         "projectName": "calculadora",
-        "projectPath": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj",
-        "packagesPath": "C:\\Users\\tiagoa\\.nuget\\packages\\",
-        "outputPath": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\obj\\",
+        "projectPath": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\calculadora.csproj",
+        "packagesPath": "C:\\Users\\wesll\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tiagoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wesll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,30 +56,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.30, 6.0.30]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.30, 6.0.30]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -27,3 +27,18 @@ E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\obj\Debug\net
 E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\obj\Debug\net6.0\calculadora.pdb
 E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
 E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\obj\Debug\net6.0\ref\calculadora.dll
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\bin\Debug\net6.0\calculadora.exe
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\bin\Debug\net6.0\calculadora.deps.json
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\bin\Debug\net6.0\calculadora.runtimeconfig.json
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\bin\Debug\net6.0\calculadora.dll
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\bin\Debug\net6.0\calculadora.pdb
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\calculadora.sourcelink.json
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\calculadora.dll
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\refint\calculadora.dll
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\calculadora.pdb
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
+C:\Projetos\Estudos\CalculadoraTiago\Calculadora\calculadora\obj\Debug\net6.0\ref\calculadora.dll
