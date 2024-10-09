@@ -1,0 +1,64 @@
+﻿# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.vsidx
+*.pdb
+*.suo
+*.v2
+*.db-wal
+*.cache
+*.dylib
+*.FileListAbsolute.txt
+*.editorconfig
+*.runtimeconfig.json
+*.deps.json
+*.a
+*.CopyComplete
+*.MvcApplicationPartsAssemblyInfo.cs
+*.build.json
+*.props
+*.targets
+*.testlog
+*.BuildWithSkipAnalyzers
+*.tmp
+*.dgspec.json
+*assets.json
+*.manifest
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+**/bin/
+**/obj/
+InsuranceAPI/InsuranceAPI.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
