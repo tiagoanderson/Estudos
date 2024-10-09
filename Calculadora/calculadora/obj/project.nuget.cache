@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q0hoZe2elWE=",
+  "dgSpecHash": "t3It8OI9sZA=",
   "success": true,
-  "projectFilePath": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\calculadora.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\tiagoa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\tiagoa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\tiagoa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
-    "C:\\Users\\tiagoa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\calculadora.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

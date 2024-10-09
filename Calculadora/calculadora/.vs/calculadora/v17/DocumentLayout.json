@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|c:\\projetos\\estudos\\calculadoratiago\\calculadora\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|c:\\projetos\\estudos\\calculadoratiago\\calculadora\\calculadora\\itens\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:itens\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|c:\\projetos\\estudos\\calculadoratiago\\calculadora\\calculadora\\itens\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:itens\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|c:\\projetos\\estudos\\calculadoratiago\\calculadora\\calculadora\\calculadora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:calculadora.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\Itens\\Helpers.cs",
+              "RelativeDocumentMoniker": "Itens\\Helpers.cs",
+              "ToolTip": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\Itens\\Helpers.cs",
+              "RelativeToolTip": "Itens\\Helpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:18:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:17:13.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculadora",
+              "DocumentMoniker": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\calculadora.csproj",
+              "RelativeDocumentMoniker": "calculadora.csproj",
+              "ToolTip": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\calculadora.csproj*",
+              "RelativeToolTip": "calculadora.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T11:16:08.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\Itens\\Calculator.cs",
+              "RelativeDocumentMoniker": "Itens\\Calculator.cs",
+              "ToolTip": "C:\\Projetos\\Estudos\\CalculadoraTiago\\Calculadora\\calculadora\\Itens\\Calculator.cs",
+              "RelativeToolTip": "Itens\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T11:15:34.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
