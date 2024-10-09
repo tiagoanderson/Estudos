@@ -11,3 +11,8 @@
 *.wsuo
 /.vs/CalculadoraTiago/v17/DocumentLayout.json
 /Calculadora/calculadora/.vs/calculadora/v17/.suo
+/Calculadora/calculadora/bin/Debug/net6.0/calculadora.exe
+/Calculadora/calculadora/.vs/calculadora/v17/DocumentLayout.json
+/Calculadora/calculadora/bin/Debug/net6.0/calculadora.pdb
+/Calculadora/calculadora/bin/Debug/net6.0/calculadora.dll
+/Calculadora/calculadora/obj/Debug/net6.0/ref/calculadora.dll
