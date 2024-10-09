@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace calculadora
 {
-    internal class Validacoes
+    internal class Validacoes:Textos
     {
 
         public double EntradaNumero()
@@ -20,7 +20,8 @@ namespace calculadora
                 if (!ValidaEntradaNumero(entrada!))
                 {
                     //Console.Clear();
-                    Console.Write("\n Valor Invalido, por favor tente novamente: ");
+
+                    MsgErroNumero(1);
                     continue; // Continua pedindo entradas até serem válidas
                 }
                 else

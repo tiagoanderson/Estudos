@@ -4,8 +4,8 @@ using System.Text.RegularExpressions;
 
 
 
-menu menus = new menu();
-menus.RetornaTitulos("Testando os titulos");
-menus.RetornaMenu();
+NewMenu menu = new NewMenu();
+menu.ExibirMenu();
+
 
 
