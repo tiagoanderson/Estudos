@@ -62,3 +62,7 @@ Thumbs.db
 **/bin/
 **/obj/
 InsuranceAPI/InsuranceAPI.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Calculadora/calculadora/.vs/ProjectEvaluation/calculadora.metadata.v8.bin
+/Calculadora/calculadora/.vs/calculadora/v17/.futdcache.v2
+/Calculadora/calculadora/.vs/ProjectEvaluation/calculadora.projects.v8.bin
+/Calculadora/calculadora/.vs/ProjectEvaluation/calculadora.strings.v8.bin
