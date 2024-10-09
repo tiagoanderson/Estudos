@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+/Calculadora/calculadora/.vs/calculadora/FileContentIndex/816a62bd-52fb-4e54-bd93-9c653d87da6b.vsidx
+/Calculadora/calculadora/obj/Debug/net6.0/calculadora.AssemblyInfo.cs
+/Calculadora/calculadora/obj/Debug/net6.0/calculadora.AssemblyInfoInputs.cache
+/Calculadora/calculadora/obj/Debug/net6.0/calculadora.assets.cache
+/Calculadora/calculadora/obj/Debug/net6.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+*.wsuo
+/.vs/CalculadoraTiago/v17/DocumentLayout.json
