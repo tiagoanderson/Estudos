@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:newmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|e:\\pasta estudos tiago\\projetos c#\\estudos\\calculadora\\calculadora\\subtracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:subtracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|e:\\pasta estudos tiago\\projetos c#\\estudos\\calculadora\\calculadora\\dados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:dados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|e:\\pasta estudos tiago\\projetos c#\\estudos\\calculadora\\calculadora\\idados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:idados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|e:\\pasta estudos tiago\\projetos c#\\estudos\\calculadora\\calculadora\\divisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:divisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|e:\\pasta estudos tiago\\projetos c#\\estudos\\calculadora\\calculadora\\icalcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:icalcular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|e:\\pasta estudos tiago\\projetos c#\\estudos\\calculadora\\calculadora\\divisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:divisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|e:\\pasta estudos tiago\\projetos c#\\estudos\\calculadora\\calculadora\\subtracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|solutionrelative:subtracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7954372A-5DBE-475D-9C26-B88E1BFCC49C}|calculadora.csproj|e:\\pasta estudos tiago\\projetos c#\\estudos\\calculadora\\calculadora\\multiplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +46,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDados.cs",
+              "DocumentMoniker": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\IDados.cs",
+              "RelativeDocumentMoniker": "IDados.cs",
+              "ToolTip": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\IDados.cs",
+              "RelativeToolTip": "IDados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T00:31:48.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dados.cs",
+              "DocumentMoniker": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Dados.cs",
+              "RelativeDocumentMoniker": "Dados.cs",
+              "ToolTip": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Dados.cs",
+              "RelativeToolTip": "Dados.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T03:53:14.727Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,7 +82,7 @@
               "RelativeDocumentMoniker": "NewMenu.cs",
               "ToolTip": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\NewMenu.cs",
               "RelativeToolTip": "NewMenu.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAD4vzMAAAA4AAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T00:37:55.23Z",
               "EditorCaption": ""
@@ -61,66 +95,66 @@
               "RelativeDocumentMoniker": "Divisao.cs",
               "ToolTip": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Divisao.cs",
               "RelativeToolTip": "Divisao.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T00:33:35.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Multiplicacao.cs",
               "DocumentMoniker": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Multiplicacao.cs",
               "RelativeDocumentMoniker": "Multiplicacao.cs",
               "ToolTip": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Multiplicacao.cs",
               "RelativeToolTip": "Multiplicacao.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvwgAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T00:33:21.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Subtracao.cs",
               "DocumentMoniker": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Subtracao.cs",
               "RelativeDocumentMoniker": "Subtracao.cs",
               "ToolTip": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Subtracao.cs",
               "RelativeToolTip": "Subtracao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T00:33:03.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ICalcular.cs",
               "DocumentMoniker": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\ICalcular.cs",
               "RelativeDocumentMoniker": "ICalcular.cs",
               "ToolTip": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\ICalcular.cs",
               "RelativeToolTip": "ICalcular.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T00:24:08.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Soma.cs",
               "DocumentMoniker": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Soma.cs",
               "RelativeDocumentMoniker": "Soma.cs",
               "ToolTip": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Soma.cs",
               "RelativeToolTip": "Soma.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T00:23:20.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Pasta Estudos Tiago\\projetos C#\\Estudos\\Calculadora\\calculadora\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
