@@ -1,21 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Net;
 
 namespace calculadora
 {
     internal abstract class Dados
     {
+
         private string simbolOperador = string.Empty;
         private string textOperador = string.Empty;
         private List<string> expressao = new List<string>();
-        
+        private IPAddress[] ip = Dns.GetHostAddresses(Environment.MachineName);
+
         public void GravarDados(double Numero1, double Numero2, double Resultado, int operacao)
         {
-
 
             switch (operacao)
             {
@@ -40,8 +36,10 @@ namespace calculadora
                     return;
             }
 
-            string ex = Numero1.ToString() + ' ' + simbolOperador + ' ' + Numero2.ToString() + " = " + Resultado.ToString();
+
+            string ex = $"Operação: {textOperador} ( {Numero1} {simbolOperador} {Numero2} = {Resultado} )| Data Operação: {ObterDataHoraAtual()} | Usuario: {Environment.UserName} | Equipamento/IP: {Environment.MachineName}/ {ip[1]} | Sistema Operacional: {Environment.OSVersion}  ";
             expressao.Add(ex);
+
 
         }
 
@@ -59,7 +57,7 @@ namespace calculadora
             }
             else
             {
-                Console.WriteLine('\n'+"Não existe operações realizadas");
+                Console.WriteLine('\n' + "Não existe operações realizadas");
             }
         }
 
@@ -75,10 +73,20 @@ namespace calculadora
 
 
 
-
         }
+
+        public static DateTime ObterDataHoraAtual() => DateTime.Now;
+
+
+
+
+
+
+
 
 
 
     }
+
+
 }

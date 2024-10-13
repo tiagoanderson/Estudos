@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace calculadora
+﻿namespace calculadora
 {
     internal class NewMenu : Dados
     {
@@ -27,15 +21,17 @@ namespace calculadora
 
             while (true)
             {
+
+
                 Console.Clear();
-                Console.WriteLine("Calculadora");
+                Console.WriteLine($" Calculadora");
                 Console.WriteLine("Digite 1 para Somar");
                 Console.WriteLine("Digite 2 para Subtrair");
                 Console.WriteLine("Digite 3 para Multiplicar");
                 Console.WriteLine("Digite 4 para Dividir");
                 Console.WriteLine("Digite 5 para Listar Operações Realizadas");
                 Console.WriteLine("Digite 0 para Sair");
-                Console.Write('\n'+"Digite a sua opção: ");
+                Console.Write('\n' + "Digite a sua opção: ");
                 var opcao = Console.ReadLine();
 
                 if (opcao == "0") break;
@@ -49,15 +45,15 @@ namespace calculadora
                         string input;
 
                         do
-                        {  
+                        {
                             Console.Write("Digite o primeiro número: ");
                             input = Console.ReadLine();
                             if (!ehNumero(input))
                             {
                                 Console.Clear();
                                 Console.WriteLine("Entrada Inválida. Por favor, digite novamente.");
-                                
-                                
+
+
                             }
                         } while (!ehNumero(input) || !double.TryParse(input, out num1));
 
@@ -70,7 +66,7 @@ namespace calculadora
                             {
                                 Console.Clear();
                                 Console.WriteLine("Entrada Inválida. Por favor, digite novamente.");
-                               
+
                             }
                         } while (!ehNumero(input) || !double.TryParse(input, out num2));
 
@@ -90,12 +86,13 @@ namespace calculadora
                 }
                 else
                 {
-                    Console.WriteLine('\n'+"Entrada inválida. Por favor, digite um número inteiro.");
+                    Console.WriteLine('\n' + "Entrada inválida. Por favor, digite um número inteiro.");
                 }
 
                 Console.WriteLine('\n');
                 Console.WriteLine("Pressione uma tecla para continuar...");
                 Console.ReadKey();
+
             }
             Console.WriteLine("Tchau tchau :)");
         }
