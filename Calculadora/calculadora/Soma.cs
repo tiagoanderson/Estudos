@@ -1,8 +1,10 @@
 ﻿namespace calculadora
 {
-    internal class Soma : ICalcular
+    public class Soma : ICalcular
     {
-
+        public Soma()
+        {
+        }
 
         public double Calcular(double Numero1, double Numero2)
         {
