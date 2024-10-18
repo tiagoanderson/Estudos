@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.163522012578616" branch-rate="0.0645161290322581" lines-covered="26" lines-valid="159" branches-covered="2" branches-valid="31" complexity="44" version="0" timestamp="1729199858">
+  <sources>
+    <source>E:\Pasta Estudos Tiago\projetos C#\Estudos\</source>
+    <source>C:\</source>
+  </sources>
+  <packages>
+    <package name="calculadora" line-rate="0.0434782608695652" branch-rate="0.0645161290322581" complexity="40">
+      <classes>
+        <class name="calculadora.Dados" filename="E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\Dados.cs" line-rate="0" branch-rate="0" complexity="12">
+          <methods>
+            <method name="GravarDados" signature="(...)" line-rate="0" branch-rate="0" complexity="5">
+              <lines>
+                <line number="14" hits="0" branch="false" />
+                <line number="16" hits="0" branch="true" condition-coverage="0% (0/5)" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetExpressao" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="51" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="GetOperacao" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="66" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="69" hits="0" branch="false" />
+                <line number="71" hits="0" branch="false" />
+                <line number="76" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="ObterDataHoraAtual" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="78" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="16" hits="0" branch="true" condition-coverage="0% (0/5)" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="51" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="66" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="69" hits="0" branch="false" />
+            <line number="71" hits="0" branch="false" />
+            <line number="76" hits="0" branch="false" />
+            <line number="78" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="calculadora.Divisao" filename="E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\Divisao.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Calcular" signature="(...)" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="7" hits="3" branch="false" />
+                <line number="8" hits="3" branch="true" condition-coverage="100% (2/2)" />
+                <line number="9" hits="1" branch="false" />
+                <line number="10" hits="1" branch="false" />
+                <line number="13" hits="2" branch="false" />
+                <line number="14" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="3" branch="false" />
+            <line number="8" hits="3" branch="true" condition-coverage="100% (2/2)" />
+            <line number="9" hits="1" branch="false" />
+            <line number="10" hits="1" branch="false" />
+            <line number="13" hits="2" branch="false" />
+            <line number="14" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="calculadora.Multiplicacao" filename="E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\Multiplicacao.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Calcular" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="calculadora.NewMenu" filename="E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\NewMenu.cs" line-rate="0" branch-rate="0" complexity="21">
+          <methods>
+            <method name="ExibirMenu" signature="()" line-rate="0" branch-rate="0" complexity="20">
+              <lines>
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="false" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="39" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="40" hits="0" branch="false" />
+                <line number="41" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+                <line number="51" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="true" condition-coverage="0% (0/4)" />
+                <line number="61" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+                <line number="64" hits="0" branch="false" />
+                <line number="65" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="66" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+                <line number="70" hits="0" branch="false" />
+                <line number="71" hits="0" branch="true" condition-coverage="0% (0/4)" />
+                <line number="73" hits="0" branch="false" />
+                <line number="74" hits="0" branch="false" />
+                <line number="75" hits="0" branch="false" />
+                <line number="76" hits="0" branch="false" />
+                <line number="77" hits="0" branch="false" />
+                <line number="78" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="79" hits="0" branch="false" />
+                <line number="80" hits="0" branch="false" />
+                <line number="81" hits="0" branch="false" />
+                <line number="83" hits="0" branch="false" />
+                <line number="84" hits="0" branch="false" />
+                <line number="85" hits="0" branch="false" />
+                <line number="86" hits="0" branch="false" />
+                <line number="88" hits="0" branch="false" />
+                <line number="89" hits="0" branch="false" />
+                <line number="90" hits="0" branch="false" />
+                <line number="92" hits="0" branch="false" />
+                <line number="93" hits="0" branch="false" />
+                <line number="94" hits="0" branch="false" />
+                <line number="96" hits="0" branch="false" />
+                <line number="97" hits="0" branch="false" />
+                <line number="98" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="39" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="40" hits="0" branch="false" />
+            <line number="41" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="51" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="true" condition-coverage="0% (0/4)" />
+            <line number="61" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="64" hits="0" branch="false" />
+            <line number="65" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="66" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="70" hits="0" branch="false" />
+            <line number="71" hits="0" branch="true" condition-coverage="0% (0/4)" />
+            <line number="73" hits="0" branch="false" />
+            <line number="74" hits="0" branch="false" />
+            <line number="75" hits="0" branch="false" />
+            <line number="76" hits="0" branch="false" />
+            <line number="77" hits="0" branch="false" />
+            <line number="78" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="79" hits="0" branch="false" />
+            <line number="80" hits="0" branch="false" />
+            <line number="81" hits="0" branch="false" />
+            <line number="83" hits="0" branch="false" />
+            <line number="84" hits="0" branch="false" />
+            <line number="85" hits="0" branch="false" />
+            <line number="86" hits="0" branch="false" />
+            <line number="88" hits="0" branch="false" />
+            <line number="89" hits="0" branch="false" />
+            <line number="90" hits="0" branch="false" />
+            <line number="92" hits="0" branch="false" />
+            <line number="93" hits="0" branch="false" />
+            <line number="94" hits="0" branch="false" />
+            <line number="96" hits="0" branch="false" />
+            <line number="97" hits="0" branch="false" />
+            <line number="98" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="calculadora.Soma" filename="E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\Soma.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Calcular" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="0" branch="false" />
+                <line number="6" hits="0" branch="false" />
+                <line number="7" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="false" />
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="calculadora.Subtracao" filename="E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\Subtracao.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Calcular" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="Program" filename="E:\Pasta Estudos Tiago\projetos C#\Estudos\Calculadora\calculadora\Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;Main&gt;$" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+                <line number="5" hits="0" branch="false" />
+                <line number="6" hits="0" branch="false" />
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="9" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+            <line number="5" hits="0" branch="false" />
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="9" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="calculadora.Tests" line-rate="0.952380952380952" branch-rate="1" complexity="4">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\tiagoa\.nuget\packages\microsoft.net.test.sdk\17.1.0\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="calculadora.Tests.TesteOperacoes" filename="E:\Pasta Estudos Tiago\projetos C#\Estudos\CalculadoraTest\Calculadora.Tests\TesteOperacoes.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="TestExceptionDivisaoPorZero" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="1" branch="false" />
+                <line number="16" hits="1" branch="false" />
+                <line number="17" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="21" hits="2" branch="false" />
+                <line number="23" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="TesteDivisao" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="28" hits="1" branch="false" />
+                <line number="29" hits="1" branch="false" />
+                <line number="30" hits="1" branch="false" />
+                <line number="31" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="35" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="TesteDivisaoNumerosNegativos" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="40" hits="1" branch="false" />
+                <line number="41" hits="1" branch="false" />
+                <line number="42" hits="1" branch="false" />
+                <line number="43" hits="1" branch="false" />
+                <line number="45" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+                <line number="47" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="21" hits="2" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="28" hits="1" branch="false" />
+            <line number="29" hits="1" branch="false" />
+            <line number="30" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="41" hits="1" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="45" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+            <line number="47" hits="1" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>

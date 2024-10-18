@@ -1,9 +1,9 @@
 ﻿namespace calculadora
 {
-    internal interface ICalcular
+    public interface ICalcular
     {
 
-        public double Calcular(double Numero1, double Numero2);
+        double Calcular(double Numero1, double Numero2);
 
 
     }
