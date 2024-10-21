@@ -1,6 +1,9 @@
-﻿namespace calculadora
+﻿using System.Diagnostics.CodeAnalysis;
+
+namespace calculadora
 {
-    internal class NewMenu : Dados
+    [ExcludeFromCodeCoverage]
+    internal class NewMenu : DadosConcretos
     {
         private Dictionary<int, ICalcular> _operacoes;
 

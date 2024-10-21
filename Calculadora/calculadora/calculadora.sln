@@ -5,7 +5,12 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculadora", "calculadora.csproj", "{7954372A-5DBE-475D-9C26-B88E1BFCC49C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora.Tests", "..\..\CalculadoraTest\Calculadora.Tests\calculadora.Tests.csproj", "{FD17E37D-F0E4-4069-A884-E0428D825101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculadora.Tests", "..\..\CalculadoraTest\Calculadora.Tests\calculadora.Tests.csproj", "{FD17E37D-F0E4-4069-A884-E0428D825101}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{61F31450-C613-4027-960F-13406AFCA6E5}"
+	ProjectSection(SolutionItems) = preProject
+		cla.cs = cla.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

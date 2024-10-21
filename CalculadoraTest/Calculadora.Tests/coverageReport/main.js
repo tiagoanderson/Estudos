@@ -221,18 +221,17 @@ var assemblies = [
   {
     "name": "calculadora.dll",
     "classes": [
-      { "name": "calculadora.Dados", "rp": "calculadora.dll_Dados.html", "cl": 0, "ucl": 44, "cal": 44, "tl": 92, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "calculadora.Dados", "rp": "calculadora.dll_Dados.html", "cl": 17, "ucl": 6, "cal": 23, "tl": 92, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
       { "name": "calculadora.Divisao", "rp": "calculadora.dll_Divisao.html", "cl": 6, "ucl": 0, "cal": 6, "tl": 20, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
-      { "name": "calculadora.Multiplicacao", "rp": "calculadora.dll_Multiplicacao.html", "cl": 0, "ucl": 3, "cal": 3, "tl": 13, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
-      { "name": "calculadora.NewMenu", "rp": "calculadora.dll_NewMenu.html", "cl": 0, "ucl": 70, "cal": 70, "tl": 100, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
-      { "name": "calculadora.Soma", "rp": "calculadora.dll_Soma.html", "cl": 0, "ucl": 3, "cal": 3, "tl": 15, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
-      { "name": "calculadora.Subtracao", "rp": "calculadora.dll_Subtracao.html", "cl": 0, "ucl": 3, "cal": 3, "tl": 15, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
-      { "name": "Program", "rp": "calculadora.dll_Program.html", "cl": 0, "ucl": 6, "cal": 6, "tl": 12, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "calculadora.Multiplicacao", "rp": "calculadora.dll_Multiplicacao.html", "cl": 3, "ucl": 0, "cal": 3, "tl": 13, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "calculadora.Soma", "rp": "calculadora.dll_Soma.html", "cl": 6, "ucl": 0, "cal": 6, "tl": 17, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "calculadora.Subtracao", "rp": "calculadora.dll_Subtracao.html", "cl": 3, "ucl": 0, "cal": 3, "tl": 15, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
     ]},
   {
     "name": "calculadora.Tests.dll",
     "classes": [
-      { "name": "calculadora.Tests.TesteOperacoes", "rp": "calculadora.Tests.dll_TesteOperacoes.html", "cl": 13, "ucl": 0, "cal": 13, "tl": 43, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "calculadora.Tests.TesteOperacoes", "rp": "calculadora.Tests.dll_TesteOperacoes.html", "cl": 83, "ucl": 0, "cal": 83, "tl": 175, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "calculadora.Tests.TestesDados", "rp": "calculadora.Tests.dll_TestesDados.html", "cl": 29, "ucl": 0, "cal": 29, "tl": 65, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
     ]},
 ];
 

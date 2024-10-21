@@ -1,6 +1,6 @@
 ﻿namespace calculadora
 {
-    internal class Subtracao : ICalcular
+    public class Subtracao : ICalcular
     {
 
 

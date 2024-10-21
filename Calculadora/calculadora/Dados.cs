@@ -1,13 +1,14 @@
-﻿using System.Net;
+﻿using System.Diagnostics.CodeAnalysis;
+using System.Net;
 
 namespace calculadora
 {
-    internal abstract class Dados
+    public abstract class Dados
     {
 
         private string simbolOperador = string.Empty;
         private string textOperador = string.Empty;
-        private List<string> expressao = new List<string>();
+        public List<string> expressao = new List<string>();
         private IPAddress[] ip = Dns.GetHostAddresses(Environment.MachineName);
 
         public void GravarDados(double Numero1, double Numero2, double Resultado, int operacao)
@@ -42,6 +43,7 @@ namespace calculadora
 
 
         }
+        [ExcludeFromCodeCoverage]
 
         public void GetExpressao()
         {
@@ -61,19 +63,17 @@ namespace calculadora
             }
         }
 
+        [ExcludeFromCodeCoverage]
 
         public void GetOperacao()
         {
             Console.Clear();
             Console.WriteLine($"***** Operação {this.textOperador} realizada *****");
             var op = expressao.Count - 1;
-
             Console.WriteLine(expressao[op]);
 
-
-
-
         }
+        [ExcludeFromCodeCoverage]
 
         public static DateTime ObterDataHoraAtual() => DateTime.Now;
 
