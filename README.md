@@ -28,15 +28,32 @@ Exibição de Operações: Permite exibir todas as operações realizadas e a ú
 Utilizando o Visual Studio, abra o arquivo .sln do projeto e pressione F5 para compilar e executar.
 
 ## Exemplo de Uso
-Operação Básica: Soma
+Operação Básica:
+<br>Soma
 
-
- ```bash
+ ```csharp
 var soma = new Soma();
 double resultado = soma.Calcular(10, 5);
 Console.WriteLine($"Resultado da soma: {resultado}"); // Saída: 15
-\** ```bash
-
+ ```
+<br>Subtração
+```csharp
+var subtracao = new Subtracao();
+double resultado = subtracao.Calcular(10, 5);
+Console.WriteLine($"Resultado da subtração: {resultado}"); // Saída: 5
+ ```
+<br>Multiplicação
+```csharp
+var multiplicacao = new Multiplicacao();
+double resultado = multiplicacao.Calcular(10, 5);
+Console.WriteLine($"Resultado da multiplicação: {resultado}"); // Saída: 50
+ ```
+<br>Divisão
+```csharp
+var divisao = new Divisao();
+double resultado = divisao.Calcular(10, 5);
+Console.WriteLine($"Resultado da divisão: {resultado}"); // Saída: 2
+ ```
 
 ## Ferramentas Utilizadas
 Visual Studio 2022
