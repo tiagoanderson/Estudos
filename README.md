@@ -55,6 +55,12 @@ double resultado = divisao.Calcular(10, 5);
 Console.WriteLine($"Resultado da divisão: {resultado}"); // Saída: 2
  ```
 
+
+
+
+https://github.com/user-attachments/assets/57367ad1-4de0-49f1-a66e-792fe5070fc0
+
+
 ## Ferramentas Utilizadas
 Visual Studio 2022
 
